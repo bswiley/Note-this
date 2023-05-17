@@ -1,6 +1,1 @@
-[
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
-]
+[{"id":1,"title":"Test Title","text":"Test text"},{"title":"Test ","text":"Test","id":"3e7ce3b9-76a5-4df3-9895-0d9c8557eb8d"},{"title":"Test Again","text":"Test Again","id":"b7daa003-900a-4b96-a8a4-db63b0d9b762"},{"title":"This is my new note","text":"New Note","id":"2a667c7e-3952-427e-b8f3-e5cc3d5099ec"},{"title":"I am going to post another","text":"New Note not going nearly as long as the title did, or maybe longer. ","id":"0c017e57-908f-44de-b49b-399950ec0c42"}]
